@@ -9,7 +9,7 @@ export default function Home() {
 
       <div className="card ">Card</div>
 
-      {/* <div className="someClass">SCSS Work!!!</div> */}
+      <div className="someClass">SCSS Work!!!</div>
     </>
   );
 }
